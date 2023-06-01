@@ -15,6 +15,6 @@
     "onlinesim_api_key": "",
     "vaksms_api_key": "",
     
-    "__country_code": "for vaksms use country codes like ru and for onlinesim use like 7
+    "__country_code": "for vaksms use country codes like ru and for onlinesim use like 7"
     "country_code": ""
 }
