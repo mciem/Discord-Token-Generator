@@ -1,0 +1,20 @@
+{
+    "solving_service": "capsolver.com",
+    "captcha_api_key": "CAI-1467F0DD45E2EFA53FBB7EAB0ADAB0C8",
+
+    "email_verify": true,
+    "phone_verify": true,
+    
+    "imap": false,
+    "imap_ssl_url": "outlook.office365.com",
+
+    "kopeechka_api_key": "22186d3f59bc66cc74bc6097e9bc0f0f",
+
+    "sms_api": "onlinesim",
+    
+    "onlinesim_api_key": "4MtKSXXM5qPhzF2-13JBnChD-TEE6t2cm-6MB1jcJQ-ddKK2V97T332j4j",
+    "country_code": 48,
+
+    "vaksms_api_key": "",
+    "countr_code": "ru"
+}
