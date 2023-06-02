@@ -1,9 +1,9 @@
 {
-    "solving_service": "capsolver.com",
-    "captcha_api_key": "",
+    "solving_service": "api.capsolver.com",
+    "captcha_api_key": "a",
 
-    "email_verify": true,
-    "phone_verify": true,
+    "email_verify": false,
+    "phone_verify": false,
     
     "imap": false,
     "imap_ssl_url": "outlook.office365.com",
