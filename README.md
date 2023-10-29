@@ -1,4 +1,6 @@
-# Discord Token Generator
+# Discord Token Generator (OUTDATED)
+JOIN FOR NEW VERSION -> https://discord.gg/qnGWSWEuc8
+
 uses capsolver,
 edit config.json and put proxies in data/proxies.txt
 
